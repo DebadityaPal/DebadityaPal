@@ -48,7 +48,7 @@ I'm an **Undergraduate Student 👨🏽‍💼 [@IIIT Gwalior](https://www.iiitm
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
 <code><img height="50" src="https://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png"></code>
 <code><img height="50" src="https://cdn.algorithmia.com/developers/images/language_logos/pytorch.png"></code>
-<code><img height="50" src="https://static.macupdate.com/products/31228/l/julia-logo.png?v=1601042471"></code>
+<code><img height="50" src="https://miro.medium.com/max/2400/1*4ZBvTzoYO5WQVxuxJNJByA.png"></code>
 <code><img height="50" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
 <code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
