@@ -1,6 +1,7 @@
 
 ### 
 ### Hello 👋, I'm Debaditya!
+![](https://komarev.com/ghpvc/?username=DebadityaPal)
 
 <p align="center">
 <br/>
