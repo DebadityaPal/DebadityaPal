@@ -9,13 +9,13 @@
   <img alt="Debaditya's Orcid" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1200px-ORCID_iD.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/DebadityaPal">
-  <img alt="Debaditya's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="Debaditya's LinkdeIN" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.facebook.com/debaditya.pal.9">
-  <img alt="Debaditya's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img alt="Debaditya's Facebook" width="35px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
 </a>
 <a href="https://www.instagram.com/the_unburdened_guy/">
-  <img alt="Debaditya's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="Debaditya's Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://www.kaggle.com/debadityapal">
   <img alt="Debaditya's Kaggle" width="35px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />
