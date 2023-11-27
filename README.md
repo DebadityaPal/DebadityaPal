@@ -23,7 +23,7 @@
 
 </p>
 
-I'm an **Undergraduate Student 👨🏽‍💼 [@IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/) in India.** I am a huge admirer of Artificial Intelligence and have recently finished writing my first **[Research Paper](https://arxiv.org/abs/2010.05243) in Natural Language Processing.** I strongly advocate my fellow classmates to get into Open Source 📢. Besides academics, I'm the Lead Guitarist 🎸 of a Progressive Rock band and have done a couple of concerts here and there.
+I'm a **Graduate Student 👨🏽‍💼 [@USC](https://www.usc.edu/) in Los Angeles, USA.** I am a huge admirer of Artificial Intelligence and have recently finished writing my third **[Research Paper](https://journals.flvc.org/FLAIRS/article/view/133386) in Natural Language Processing.** I strongly advocate my fellow classmates to get into Open Source 📢. Besides academics, I'm the Lead Guitarist 🎸 of a Progressive Rock band and have done a couple of concerts here and there.
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/0370865dc28ad806626731f7f7dbdf09/tenor.gif?itemid=16756828" />
@@ -41,21 +41,4 @@ I'm an **Undergraduate Student 👨🏽‍💼 [@IIIT Gwalior](https://www.iiitm
 
 <!--END_SECTION:waka-->
 
-**Languages and Tools:**  
-
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
-<code><img height="50" src="https://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png"></code>
-<code><img height="50" src="https://cdn.algorithmia.com/developers/images/language_logos/pytorch.png"></code>
-<code><img height="50" src="https://miro.medium.com/max/2400/1*4ZBvTzoYO5WQVxuxJNJByA.png"></code>
-<code><img height="50" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
-<code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DebadityaPal&show_icons=true&hide_border=true">
-</p>
 
