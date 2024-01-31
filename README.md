@@ -31,12 +31,12 @@ I'm a **Graduate Student 👨🏽‍💼 [@USC](https://www.usc.edu/) in Los Ang
 
 - 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
 - 🤹🏽 Fields I enjoy the most include 📈  Probability and Statistics, 🎛 Natural Language Processing, 🖼 Computer Vision, 📊 Data Science
-- 📈 I’m fluent in C/C++, Python, Julia and JavaScript
+- 📈 I’m fluent in C/C++, Python. I also dabble in Julia, JavaScript and R.
 - 💬 I am fast to respond and would love to grow my network.
 - 📫 How to reach me: <debaditya.pal6@gmail.com>;
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=DebadityaPal&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=DebadityaPal&column=6&rank=SSS,SS,S,AAA,AA,A" />
 </p>
 
 <!--END_SECTION:waka-->
