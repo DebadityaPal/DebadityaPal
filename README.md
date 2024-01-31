@@ -29,7 +29,7 @@ I'm a **Graduate Student 👨🏽‍💼 [@USC](https://www.usc.edu/) in Los Ang
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/0370865dc28ad806626731f7f7dbdf09/tenor.gif?itemid=16756828" />
 </p>
 
-- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
+- 📖 I’m currently working as a Research Assistant at the [USC Institute for Creative Technologies](https://ict.usc.edu/) under the supervision of [Dr. David Traum](https://viterbi.usc.edu/directory/faculty/Traum/David);
 - 🤹🏽 Fields I enjoy the most include 📈  Probability and Statistics, 🎛 Natural Language Processing, 🖼 Computer Vision, 📊 Data Science
 - 📈 I’m fluent in C/C++, Python. I also dabble in Julia, JavaScript and R.
 - 💬 I am fast to respond and would love to grow my network.
